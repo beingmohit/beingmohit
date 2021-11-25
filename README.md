@@ -1,8 +1,8 @@
-### Hi there 👋
-
-[![Mohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=beingmohit&count_private=true&show_icons=true)](https://github.com/beingmohit/beingmohit)
 
 <!--
+### Hi there 👋
+
+
 **beingmohit/beingmohit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
